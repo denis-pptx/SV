@@ -6,7 +6,7 @@ def input_measure(letter='x'):
     :param letter.
     :type letter: str.
 
-    :return: measure value.
+    :return: Measure value.
     :rtype: float.
     """
 
@@ -33,7 +33,7 @@ def calculate_square(a, b):
     :param b.
     :type b: float.
 
-    :return: square.
+    :return: Square.
     :rtype: float.
     """
 
