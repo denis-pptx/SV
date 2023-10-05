@@ -244,7 +244,7 @@ public class TriangleTest {
 
 	// Square tests.
 	@Test
-	public void getSquare_Correct_tst() {
+		public void getSquare_Correct_tst() {
 		parameterA = 15;
 		parameterB = 12;
 		parameterC = 14;
